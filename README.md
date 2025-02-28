@@ -14,8 +14,8 @@ I finally decided to make a bit of an effort to share what keeps me busy here. S
 ### My latest projects
 
 - [Mo'z AI assistant](https://maurice.instrukt.ai): you can ask questions about me and book a meeting if you so desire (adding tools and vectorized knowledge regularly)
+- [Indy News](https://indy-news.instrukt.ai): An AI assistant that utilizes [my indy-news api](https://github.com/Morriz/indy-news) and helps find uncensored independent news by selecting sources from a trusted db and then querying their YouTube and X channels to answer questions about the world.
 - [Indy Comics](https://indy-comics.instrukt.ai): My ongoing effort to publish factual news packaged into comic book format (for obvious reasons ;)
-- [Indy News](https://github.com/Morriz/indy-news): An api powered by AI (RAG) and automation that aims to find relevant independent news on YouTube and X
 - [itsUP](https://github.com/Morriz/itsUP): Lean, automated, poor man's infra for lightweight services running in docker, that can be controlled with this [itsUP agent prompt](https://github.com/Morriz/itsUP/blob/main/prompts/itsUP-Agent.txt) when the agent is connected to [the itsUP API ](https://github.com/Morriz/itsUP/blob/main/openapi.yaml)
 - [AI assistant for the city of Utrecht](https://utrecht.ai-assistent.app): demo to show how AI can be used by the government to alleviate humans from repetitive tasks
 
