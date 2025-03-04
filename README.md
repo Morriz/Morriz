@@ -19,6 +19,8 @@ I finally decided to make a bit of an effort to share what keeps me busy here. S
 - [itsUP](https://github.com/Morriz/itsUP): Lean, automated, poor man's infra for lightweight services running in docker, that can be controlled with this [itsUP agent prompt](https://github.com/Morriz/itsUP/blob/main/prompts/itsUP-Agent.txt) when the agent is connected to [the itsUP API ](https://github.com/Morriz/itsUP/blob/main/openapi.yaml)
 - [AI assistant for the city of Utrecht](https://utrecht.ai-assistent.app): demo to show how AI can be used by the government to alleviate humans from repetitive tasks
 
+Please consider making a donation if you want to support me in doing any of this, as I pay for everything out of my own pocket: [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O81BGO0V)
+
 ### My YouTube AI subscriptions
 
 From a thorough **informational** perspective (in order of relevancy):
