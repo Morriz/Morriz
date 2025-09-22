@@ -35,7 +35,7 @@ From a thorough **informational** perspective (in order of relevancy):
 
 From a **hands on** perspective so that you learn through watching and perhaps doing at the same time:
 
-- [Daniel Miesler](https://www.youtube.com/@unsupervised-learning): AI power user crafting the best personal AI assistant a dev can have
+- [Daniel Miessler](https://www.youtube.com/@unsupervised-learning): AI power user crafting the best personal AI assistant a dev can have
 - [Indy Dev Dan](https://www.youtube.com/@indydevdan): AI power user experimenting with AI dev tools and automation
 - [AI Jason](https://www.youtube.com/@AIJasonZ/videos): hands on guy that covers the steps to make use of AI tools to create code and build apps get real things done (beginner/medium level)
 - [Arseny Shatokhin](https://www.youtube.com/@vrsen): builds real AI solutions for customers and shares insights, tools etc
