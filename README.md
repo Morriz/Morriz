@@ -31,15 +31,17 @@ From a thorough **informational** perspective (in order of relevancy):
 - [Matt Berman](https://www.youtube.com/@matthew_berman): nice, simple explanation of actual AI developments (beginner/medium level)
 - [The AI Grid](https://www.youtube.com/@TheAiGrid): a guy that uses too many words imo to get to the crux of things (medium level, helpful to know basics)
 - [AI Flux](https://www.youtube.com/@aifluxchannel/videos): covers real implementations and tech that power AI (medium level, need to know basics)
-- [Matt Wolfe](https://www.youtube.com/@matthew_berman): a very lovable guy who is too loud to listen to but presents a lot of new AI tools (beginner/medium level)
 - [World of AI](https://www.youtube.com/@intheworldofai): frequent posts that cover many AI subjects (of which many are not interesting), but has sometimes interesting new stuff (beginner/medium level)
 
 From a **hands on** perspective so that you learn through watching and perhaps doing at the same time:
 
+- [Daniel Miesler](https://www.youtube.com/@unsupervised-learning): AI power user crafting the best personal AI assistant a dev can have
+- [Indy Dev Dan](https://www.youtube.com/@indydevdan): AI power user experimenting with AI dev tools and automation
+- [AI Jason](https://www.youtube.com/@AIJasonZ/videos): hands on guy that covers the steps to make use of AI tools to create code and build apps get real things done (beginner/medium level)
+- [Arseny Shatokhin](https://www.youtube.com/@vrsen): builds real AI solutions for customers and shares insights, tools etc
 - [Cole Medin](https://www.youtube.com/@ColeMedin): he is usually on top of the best AI tools and solutions and shows how to use them (beginner level since his start, but progressed to medium level)
 - [Prompt Engineering](https://www.youtube.com/@engineerprompt): hands on guy walking you through AI development stuff (medium level, helpful to know basics)
 - [Sam Witteveen](https://www.youtube.com/@samwitteveenai): hands on guy that walks you through notebooks to prototype real solutions, easier when you know some coding (medium level, helpful to know basics)
-- [AI Jason](https://www.youtube.com/@AIJasonZ/videos): hands on guy that covers the steps to make use of AI tools to create code and build apps get real things done (beginner/medium level)
 
 From a **philosophical** perspective:
 
